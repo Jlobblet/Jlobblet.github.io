@@ -8,4 +8,5 @@ I'm a programmer who likes data science, functional programming, and writing hor
 My languages of choice are primarily F# and Python, but I'm also a big fan of C# and Rust.
 I have a love-hate relationship with C.
 
-I'll probably write more here at some point.
+Outside of programming I enjoy photography, fell walking, and video games.
+You can find me on [flickr](https://www.flickr.com/people/189581787@N03/).
