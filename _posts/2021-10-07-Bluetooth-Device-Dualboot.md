@@ -16,6 +16,7 @@ Unless otherwise stated, Linux commands here are intended to be run from root.
 
 - `apt install chntpw`
 - `pacman -S chntpw`
+- `xbps-install chntpw`
 - etc.
 
 If you'd rather retrieve data from the registry on Windows, [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) should allow you to access the necessary values.
