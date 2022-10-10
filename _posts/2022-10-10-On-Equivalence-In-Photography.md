@@ -8,7 +8,8 @@ I shoot using an Olympus E-M1 Mark III mostly, which has a Micro Four Thirds (MF
 As a result, almost every lens I read about mentions a full frame (FF) "equivalent" focal length.
 However, I don't especially like the term, for reasons I will get into in this article.
 
-# Depth of Field
+Depth of Field
+--------------
 
 Depth of field is a measure of the width of the region of the photograph that is sharp, along the axis perpendicular to the plane of the sensor (or through the lens).
 A shallow depth of field is characterised by out-of-focus regions in front of and behind the subject, blurring the surrounding.
@@ -48,12 +49,14 @@ Other characteristics are not the same, most notably depth of field.
 Given a MFT and FF lens with equivalent angle of view shooting at the same f-number, the FF will result in a shallower depth of field, owing to its longer focal length.
 If the MFT lens needed to have the same depth of field as the FF, using the equation above, it would have to have half the f-number.
 
-# Equivalent Light-Gathering
+Equivalent Light-Gathering
+--------------------------
 
 Something that gets said a lot is that FF cameras perform better than cropped sensors in low-light conditions.
 There's usually one of several reasons attached, but some of these make no sense.
 
-## Total Light
+Total Light
+===========
 
 The worst offender is the "because a FF sensor is bigger, it gathers more light".
 The sensor doesn't gather any light at all — the lens does.
@@ -83,7 +86,8 @@ I don't know why this particular assertion is so wide-spread.
 Thinking about the logic involved for a few seconds should make it clear that even if the total light gathered is greater, the flux is the same.
 I think it is likely based on observational results and a poor understanding of what causes them.
 
-## Pixel Size
+Pixel Size
+==========
 
 The reasoning here is "because FF sensors have biggers pixels, and so they are less noisy" or similar.
 At this point we have to acknowledge a difference between the idealised case and the real world.
@@ -105,7 +109,8 @@ However, in low-light conditions you usually shoot wide open to maximise the amo
 Here, FF cameras do have an advantage assuming shallow depth of field is desirable.
 If a deep depth of field is desiable, cropped sensors will overtake by being able to shoot wide open or at a lower ISO for the same depth of field.
 
-# Equivalent Angle of View
+Equivalent Angle of View
+------------------------
 
 Angle of view is the horizontal angle a lens sees at, as I mentioned earlier.
 MFT has an added caveat: its sensors are 4x3 aspect ratio as opposed to the 3x2 that FF and APS-C have.
@@ -129,7 +134,8 @@ Is this a better way of thinking about angle of view?
 I'm not sure.
 But it was a curious thought, and not one I've seen talked about elsewhere.
 
-# Conclusion
+Conclusion
+----------
 
 The word "equivalent" in photography is often used imprecisely.
 People should take care to specify what they mean as equivalent — the angle of view, the depth of field, et cetera.
